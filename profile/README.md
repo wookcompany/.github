@@ -19,6 +19,7 @@
       
     
   </tr>
+  </table>
 # Backend Developer
 
 <table>
@@ -28,3 +29,4 @@
     
   </tr>
 
+</table>

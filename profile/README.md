@@ -11,6 +11,7 @@
   
 
 </table>
+
 # Front Developer
 
 <table>
@@ -20,6 +21,7 @@
     
   </tr>
   </table>
+  
 # Backend Developer
 
 <table>

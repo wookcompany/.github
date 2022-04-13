@@ -11,7 +11,14 @@
   
 
 </table>
+# Front Developer
 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/choiseunghyeon"><img src="https://avatars.githubusercontent.com/choiseunghyeon" width="100px;" alt=""/><br /><sub><b>choiseunghyeon</b></sub></a><br /></td>
+      
+    
+  </tr>
 # Backend Developer
 
 <table>

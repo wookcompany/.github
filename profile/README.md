@@ -1,5 +1,6 @@
-## Hi there 👋
-# wookcompany
+## Hi there! This is wookcompany 👋
+
+# iOS Developer
 
 <table>
   <tr>

@@ -36,7 +36,7 @@
  
 </table>
 
-# Reasearcher
+# Researcher
 <table>
   <tr>
     <td align="center"><a href="https://github.com/Ahnyechan"><img src="https://avatars.githubusercontent.com/Ahnyechan" width="100px;" alt=""/><br /><sub><b>Ahnyechan</b></sub></a><br /></td>

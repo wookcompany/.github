@@ -28,7 +28,7 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/choiseunghyeon"><img src="https://avatars.githubusercontent.com/choiseunghyeon" width="100px;" alt=""/><br /><sub><b>choiseunghyeon</b></sub></a><br /></td>
-      
+          <td align="center"><a href="https://github.com/kimbumsoo0820"><img src="https://avatars.githubusercontent.com/kimbumsoo0820" width="100px;" alt=""/><br /><sub><b>kimbumsoo0820</b></sub></a><br /></td>
     
   </tr>
   </table>

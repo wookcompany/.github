@@ -38,10 +38,11 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ParkBoom2"><img src="https://avatars.githubusercontent.com/ParkBoom2" width="100px;" alt=""/><br /><sub><b>ParkBoom2</b></sub></a><br /></td>
-      
-    
   </tr>
-
+  
+ <tr>
+    <td align="center"><a href="https://github.com/kjhbbjoker"><img src="https://avatars.githubusercontent.com/kjhbbjoker" width="100px;" alt=""/><br /><sub><b>kjhbbjoker</b></sub></a><br /></td>
+  </tr>
   
   
  
